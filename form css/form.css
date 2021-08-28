@@ -1,0 +1,25 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding-top: 250px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border: solid 1px #999;
+    padding: 10px 20px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    background: #67E164;
+    
+
+    
+}
